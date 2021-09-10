@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pc/Documents/Code/c++/class/Calculator/Cal.cpp
+iostream
+-
+Calculator.h
+C:/Users/pc/Documents/Code/c++/class/Calculator/Calculator.h
+
+C:/Users/pc/Documents/Code/c++/class/Calculator/Calculator.cpp
+iostream
+-
+Calculator.h
+C:/Users/pc/Documents/Code/c++/class/Calculator/Calculator.h
+
+C:/Users/pc/Documents/Code/c++/class/Calculator/Calculator.h
+iostream
+-
+
+C:/Users/pc/Documents/Code/c++/class/FruitSale/FruitSaleSim1.cpp
+iostream
+-
+
+C:/Users/pc/Documents/Code/c++/class/Printer/Printer.h
+iostream
+-
+cstring
+-
+
+C:/Users/pc/Documents/Code/c++/class/Printer/PrinterMain.cpp
+Printer.h
+C:/Users/pc/Documents/Code/c++/class/Printer/Printer.h
+
